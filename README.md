@@ -3,4 +3,4 @@ tvjames.github.io
 
 GitHub Pages Repo
 
-Meh
+Simple landing page
